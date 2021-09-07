@@ -1,0 +1,12 @@
+
+.star {
+  display: inline-block;
+  background-color: blue;
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+
+.star-active {
+  background-color: yellow;
+}
